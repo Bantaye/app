@@ -26,3 +26,5 @@ COVID-19 app
 ## Development Builds
 
 Please note that if you run the app from the GitHub repository, you are using a development-only build of this app not intended for public use. You agree that you have no expectation of privacy when using this build and understand that the content of the app may not have been reviewed by the World Health Organization.
+ If you are using through the github respiratory then don't expect any kind of privacy. By using this you will confirmed that you agreed our policy about no expectation of privacy
+ 
